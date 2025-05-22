@@ -1,5 +1,5 @@
-const calculateTotal = (iteme) => {
+calculateTotal(10);
+
+function calculateTotal(iteme) {
  console.log(iteme*iteme);
 }
-
-calculateTotal(10);
